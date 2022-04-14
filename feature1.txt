@@ -1,3 +1,2 @@
 Update from feature1
-Update from main
 started feature one
